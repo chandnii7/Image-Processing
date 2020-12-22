@@ -6,8 +6,9 @@ It is a program to perform simple image manipulation using OpenCV with following
 * Program should work on any size of image.
 * On pressing a support key, apply corresponding function on the original image.
 * When implementing convolution, use Cython to speed up execution.
+<br/>
 Refer the report for further implementation details and instructions to run the code:
-<a href="">View Report</a>
+<a href="https://github.com/chandnii7/ImageProcessing/blob/main/doc/Report_A1_Chandni_Patel.pdf">View Report</a>
 <br/>
 
 ### List of Support Keys:
@@ -102,10 +103,10 @@ Cython Function
 <table>
 <tr>
 <td>
-<img src="https://github.com/chandnii7/ImageProcessing/blob/main/data/out8.jpg" height="200" width="200"/>
+<img src="https://github.com/chandnii7/ImageProcessing/blob/main/data/out8.jpg" height="100" width="100"/>
 </td>
 <td>
-<img src="https://github.com/chandnii7/ImageProcessing/blob/main/data/out9.jpg" height="200" width="200"/>
+<img src="https://github.com/chandnii7/ImageProcessing/blob/main/data/out9.jpg" height="100" width="100"/>
 </td>
 </tr>
 <tr>
@@ -165,7 +166,7 @@ Plotted gradient vectors at every 50 pixels
 <table>
 <tr>
 <td>
-<img src="https://github.com/chandnii7/ImageProcessing/blob/main/data/out14.jpg" height="200" width="200"/>
+<img src="https://github.com/chandnii7/ImageProcessing/blob/main/data/out14.jpg" height="300" width="300"/>
 </td>
 </tr>
 <tr>
