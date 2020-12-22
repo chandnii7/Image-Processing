@@ -7,9 +7,9 @@ It is a program to perform simple image manipulation using OpenCV with following
 * On pressing a support key, apply corresponding function on the original image.
 * When implementing convolution, use Cython to speed up execution.
 <br/>
-Refer the report for further implementation details and instructions to run the code:
+Program was implemented using Python, Cython, and OpenCV. Refer the report for further implementation details and instructions to run the code:
 <a href="https://github.com/chandnii7/ImageProcessing/blob/main/doc/Report_A1_Chandni_Patel.pdf">View Report</a>
-<br/>
+<br/><br/>
 
 ### List of Support Keys:
 * i - Reload the original image (cancel any previous processing).
