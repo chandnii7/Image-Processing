@@ -1,6 +1,6 @@
 # Image Processing for Computer Vision
 
-It is a program to perform simple image manipulation using OpenCV with following requirements:
+It is a program to perform simple image manipulation with following requirements:
 * Load an image by reading it from a file or capturing it directly.
 * Image should be read as a 3 channel color image.
 * Program should work on any size of image.
