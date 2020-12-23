@@ -1,4 +1,4 @@
-# ImageProcessing
+# Image Processing for Computer Vision
 
 It is a program to perform simple image manipulation using OpenCV with following requirements:
 * Load an image by reading it from a file or capturing it directly.
